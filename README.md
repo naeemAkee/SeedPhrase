@@ -12,8 +12,10 @@ Example: `seed word fill dash kill tore fire nope ...`
 4. Derive seed
 5. Generate private/public keys
 
-![Flow Diagram](flowchart.png)
-
 ## Why is it Secure?
 - 12 words = 239 million tries on average
 - 24 words = trillions of years at current computing power
+
+
+https://github.com/user-attachments/assets/702a2e5a-1d11-4a57-a005-a9ce5fdf35f3
+
